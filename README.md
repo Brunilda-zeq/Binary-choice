@@ -1,0 +1,2 @@
+# Binary-choice
+The binary choice and its application on an example will be examined in this analysis. In statistics, the (binary) logistic model (or logit model) is a statistical model that models the probability of one event (out of two alternatives) taking place by having the log-odds (the logarithm of the odds) for the event be a linear combination of one or more independent variables ("predictors").The CarBin data will be used
